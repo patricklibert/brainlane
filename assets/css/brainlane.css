@@ -269,7 +269,7 @@ body:not(.is-touch) .tiles article:hover .content {
     }
 
     .tiles article {
-        width: calc(28% - 1.25em);
+        width: calc(30% - 1.25em);
         margin: 1.25em 0 0 1.25em;
     }
 
