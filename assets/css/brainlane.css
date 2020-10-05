@@ -282,7 +282,7 @@ body:not(.is-touch) .tiles article:hover .content {
     }
 
     .tiles article {
-        width: calc(60% - 2.5em);
+        width: calc(50% - 2.5em);
         margin: 2.5em 0 0 2.5em;
     }
 
@@ -295,7 +295,7 @@ body:not(.is-touch) .tiles article:hover .content {
     }
 
     .tiles article {
-        width: calc(60% - 1.25em);
+        width: calc(50% - 1.25em);
         margin: 1.25em 0 0 1.25em;
     }
 
